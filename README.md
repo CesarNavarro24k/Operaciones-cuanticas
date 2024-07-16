@@ -1,1 +1,1 @@
-# Operaciones_cu-nticas
+# Operaciones_cuánticas
